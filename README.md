@@ -3,6 +3,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonathanleoncio976)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanleoncio976/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonciosouza)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Leonciosouza GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonciosouza&show_icons=true&theme=dracula)
 
 ## Tecnlogias que eu uso no meu dia.
